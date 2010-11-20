@@ -1,0 +1,1 @@
+/home/supersnail/NetBeansProjects/nasm-ide/nbproject/qt-Debug.pro
